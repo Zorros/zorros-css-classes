@@ -1,6 +1,6 @@
 # Zorros::Css
 
-    some extra css classes what we miss in the css frameworks we use
+    some extra css classes that we miss in the css frameworks we use
 
 ## Installation
 
