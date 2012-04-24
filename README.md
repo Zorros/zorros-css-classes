@@ -18,7 +18,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    for common classes (no matter what framework)
+    *= require zorros
+
+    for blueprint additions
+    *= require zorros-blueprint
+
+    for bootstrap additions
+    *= require zorros-bootstrap
+
+    for buttons1
+    *= require zorros-buttons1
+
 
 ## Contributing
 
