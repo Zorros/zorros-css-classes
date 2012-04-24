@@ -1,6 +1,6 @@
 # Zorros::Css
 
-TODO: Write a gem description
+    some extra css classes what we miss in the css frameworks we use
 
 ## Installation
 
