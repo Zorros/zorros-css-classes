@@ -12,15 +12,24 @@
 .zorros_block{
 	display:block;
 }
+
+
+
 .zorros_white{
 	color:white;
 }
 .zorros_red{
 	color:red;
 }
+
+
 .zorros_bottom{
 	vertical-align:bottom;
 }
 .zorros_top{
 	vertical-align:top;
+}
+
+.zorros_full_width{
+	width:100%
 }
